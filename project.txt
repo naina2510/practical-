@@ -1,2 +1,4 @@
 welcome to my github repo
 second update in my practical repo
+this is my devOps class
+this is my 3rd day of practical
